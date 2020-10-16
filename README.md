@@ -1,2 +1,2 @@
-# Respeaker_Pi_TA
+# Respeaker_Pi
 Belajar Akses Respeaker
