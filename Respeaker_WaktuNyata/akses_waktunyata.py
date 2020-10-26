@@ -1,8 +1,6 @@
 import pyaudio
 import wave
 import time
-from scipy import signal
-from scipy.io import wavfile
 
 RESPEAKER_RATE = 16000
 RESPEAKER_CHANNELS = 4
